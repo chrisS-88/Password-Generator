@@ -26,6 +26,8 @@ Options include;
 
 ## Deployed app
 
+https://chriss-88.github.io/Password-Generator/
+
 ## Licence
 
 N/A
